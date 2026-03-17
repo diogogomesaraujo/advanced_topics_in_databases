@@ -1,0 +1,1 @@
+SELECT * FROM municipality_size_class('131200');
