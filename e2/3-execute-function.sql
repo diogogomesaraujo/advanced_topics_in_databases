@@ -1,0 +1,1 @@
+SELECT * FROM party_by_short_name('BE')
