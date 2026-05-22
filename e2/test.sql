@@ -1,0 +1,1 @@
+SELECT * FROM party_votes WHERE municipality_code = '131200' AND party_id = 2;
